@@ -2,7 +2,8 @@
 <html lang="en">
 
 <head>
-<!-- Színek: 
+<!-- File neve: dobokocka.html	 
+	 Színek: 
 		- világoskék: #f0f8ff
 		- sötétkék: #00008b
 		- sötétpiros: #dc143c
